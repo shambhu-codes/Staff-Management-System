@@ -1,5 +1,5 @@
 /*LoginFrame class */
-package com;
+package staffmanagementsystem.com;
 import java.awt.*;
 public class LoginBox extends Frame{
     LoginBox(String t){
