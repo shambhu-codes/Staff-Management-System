@@ -47,10 +47,10 @@ The Staff Management System is a desktop-based application developed using Java 
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/Staff-Management-System.git
-2.Open the project in NetBeans IDE
-3.Create the database in MySQL
-4.Import SQL tables (staff, attendance, login, holidays)
-5.Update database connection in your project
-6.Run the project
-👤 Author
+2.Open the project in NetBeans IDE <br>
+3.Create the database in MySQL <br>
+4.Import SQL tables (staff, attendance, login, holidays) <br>
+5.Update database connection in your project <br>
+6.Run the project <br>
+👤 Author <br>
 Shambhu Gouda
